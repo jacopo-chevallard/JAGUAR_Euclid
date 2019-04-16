@@ -1,0 +1,8 @@
+[
+
+  {
+    "column" : "HST_F160W_fnu",
+    "operation" : ">= 22.91"
+  }
+
+]
