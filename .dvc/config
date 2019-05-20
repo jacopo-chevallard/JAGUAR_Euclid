@@ -1,0 +1,5 @@
+['remote "PULL_FTP"']
+url = https://neogal.iap.fr/github.com/jacopo-chevallard/JAGUAR_Euclid
+['remote "PUSH_SSH"']
+url = ssh://chevalla@neogal.iap.fr/mnt/shares/public/github.com/jacopo-chevallard/JAGUAR_Euclid
+ask_password = true
