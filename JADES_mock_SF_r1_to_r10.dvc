@@ -1,0 +1,8 @@
+wdir: .
+outs:
+- path: JADES_mock_SF_r1_to_r10
+  metric: false
+  cache: true
+  persist: false
+  md5: 1fd29dba175872aec8bc5c2b14e55faa.dir
+md5: 140770cf976fb020e0bdb6bfeb2cb0bd
