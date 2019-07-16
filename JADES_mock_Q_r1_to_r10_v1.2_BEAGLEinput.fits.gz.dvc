@@ -1,0 +1,8 @@
+wdir: .
+outs:
+- path: JADES_mock_Q_r1_to_r10_v1.2_BEAGLEinput.fits.gz
+  metric: false
+  cache: true
+  persist: false
+  md5: a67b0641b01aa1be557d4e042656328e
+md5: d33b0bb70d6bed7b2f781cb8f186d957
