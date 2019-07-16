@@ -1,0 +1,39 @@
+# It contains the filters to be used when calculating only photmetric models
+
+# If the catalogue contains spec-z you add the following line
+# redshift:colName:<redshift column name>
+# Example -------> redshift:colName:Z_EAZY
+
+# The possible units that can be used are: Jy, milliJy, microJy, nanoJy
+# Alternatively one can pass a conversion factor to convert the fluxes in the
+# catalogue into [erg s^-1 cm^-2 Hz^-1] -----> flux:conversion:<conversion factor>
+
+name:2MASS_H  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/2MASS_H.pb
+name:2MASS_J  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/2MASS_J.pb
+name:2MASS_Ks  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/2MASS_Ks.pb
+name:DES_g  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/DES_g.pb
+name:DES_i  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/DES_i.pb
+name:DES_r  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/DES_r.pb
+name:DES_z  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/DES_z.pb
+name:GAIA_Bp  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/GAIA_Bp.pb
+name:GAIA_G  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/GAIA_G.pb
+name:GAIA_Rp  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/GAIA_Rp.pb
+name:JPCam_g  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/JPCam_g.pb
+name:KIDS_g  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/KIDS_g.pb
+name:KIDS_i  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/KIDS_i.pb
+name:KIDS_r  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/KIDS_r.pb
+name:KIDS_u  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/KIDS_u.pb
+name:LSST_g  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/LSST_g.pb
+name:LSST_i  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/LSST_i.pb
+name:LSST_r  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/LSST_r.pb
+name:LSST_u  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/LSST_u.pb
+name:LSST_y  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/LSST_y.pb
+name:LSST_z  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/LSST_z.pb
+name:MegaCam_r  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/MegaCam_r.pb
+name:MegaCam_u  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/MegaCam_u.pb
+name:Pan-STARRS_i  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/Pan-STARRS_i.pb
+name:Pan-STARRS_z  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/Pan-STARRS_z.pb
+name:NISP_H  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/NISP_H.pb
+name:NISP_J  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/NISP_J.pb
+name:NISP_Y  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/NISP_Y.pb
+name:VIS  fileName:/Users/jchevall/Coding/JAGUAR_Euclid/filters_Flagship/VIS.pb
